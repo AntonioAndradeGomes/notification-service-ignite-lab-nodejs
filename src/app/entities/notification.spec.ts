@@ -1,5 +1,5 @@
-import { Notification } from './notification';
-import { NotificationContent } from './notification-content';
+import { Notification } from '@aplication/entities/notification';
+import { NotificationContent } from '@aplication/entities/notification-content';
 
 describe('Notification', () => {
   it('should be able to create a notification', () => {
